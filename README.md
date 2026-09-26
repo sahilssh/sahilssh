@@ -9,38 +9,14 @@
 
 <h1 align="center">Hi, I am Sahil</h1>
 <p align="center">
-  <!--<b>Software / AI Engineer</b> -->
-</p>
-
-<!-- Dynamic Animated Typing Subtitle -->
-<p align="center">
-  <a href="https://github.com/SahilAi1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=D2A8FF&center=true&vCenter=true&width=620&height=32&lines=Software+%2F+AI+Engineer;Building+RAG+%26+Agentic+AI+Apps;Full-Stack+Architect+%26+Backend+Dev;Crafting+End-to-End+Scalable+Solutions;Build+it%2C+deploy+it%2C+improve+it" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Snake Game Below Name -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
-
-<!-- Top Section: Portfolio Website and LinkedIn Links Only -->
-<p align="center">
-  <a href="https://sahill.site" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-sahill.site-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=0F172A&labelColor=0F172A" alt="portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sahil-harde-7a5a8b238" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-Sahil_Harde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn" />
-  </a>
+  <font color="#D2A8FF" size="4"><b>Software / AI Engineer</b></font>
 </p>
 
 </div>
 
 ---
 
-<!-- Animated Subheading: whoami -->
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=D2A8FF&width=450&lines=%E2%9A%A1+whoami;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Sahil;%F0%9F%A7%A0+Builder+%26+Engineer" alt="whoami" />
-</div>
+## <img src="./assets/icons/whoami.svg" width="28" height="28" valign="middle" /> Who am I
 
 ```python
 class Sahil:
@@ -63,10 +39,8 @@ class Sahil:
 
 ---
 
-<!-- Animated Subheading: Featured Projects -->
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=D2A8FF&width=500&lines=%F0%9F%9A%80+Featured+Projects;%E2%9C%A8+Production-Ready+Builds;%F0%9F%94%A7+Full-Stack+%26+AI+Systems" alt="Featured Projects" />
-</div>
+## <img src="./assets/icons/projects.svg" width="28" height="28" valign="middle" /> Featured Projects
+
 
 <table width="100%">
   <tr>
@@ -163,10 +137,8 @@ class Sahil:
 
 ---
 
-<!-- Animated Subheading: Experience & Roles -->
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=D2A8FF&width=500&lines=%F0%9F%92%BC+Professional+Experience;%F0%9F%93%88+Leadership+%26+Execution;%F0%9F%9A%80+Client+Delivery+%26+Impact" alt="Experience" />
-</div>
+## <img src="./assets/icons/experience.svg" width="28" height="28" valign="middle" /> Professional Experience
+
 
 <table width="100%">
 <tr>
@@ -198,10 +170,8 @@ class Sahil:
 
 ---
 
-<!-- Animated Subheading: Education -->
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=D2A8FF&width=480&lines=%F0%9F%8E%93+Education+%26+Foundations;%F0%9F%93%9A+Academic+Milestones" alt="Education" />
-</div>
+## <img src="./assets/icons/education.svg" width="28" height="28" valign="middle" /> Education
+
 
 <table width="100%">
 <tr>
@@ -230,7 +200,7 @@ class Sahil:
 
 ---
 
-## 🛠 Tech Stack
+## <img src="./assets/icons/techstack.svg" width="28" height="28" valign="middle" /> Tech Stack
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=arch,c,cpp,java,py,js,html,css,react,nextjs,nodejs,express,fastapi,flask,tensorflow,pytorch,sklearn,opencv,mongodb,mysql,postgres,sqlite,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vercel,netlify,linux,docker,bash,powershell,discord,ps&perline=15&theme=dark" alt="Tech Stack" />
@@ -294,6 +264,13 @@ sahil@harde:~$ ./status-check.sh
 </tr>
 </table>
 
+</div>
+
+<br/>
+
+<!-- GitHub Contribution Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
 </div>
 
 ---
