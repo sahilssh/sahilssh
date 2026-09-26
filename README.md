@@ -1,8 +1,8 @@
 <a id="top"></a>
 
 <!--
-  GitHub Profile README — SahilAi1
-  Repo name: SahilAi1/SahilAi1
+  GitHub Profile README — sahilssh
+  Repo name: sahilssh/sahilssh
 -->
 
 <div align="center">
@@ -50,7 +50,7 @@ class Sahil:
         <img src="https://img.shields.io/badge/status-live-2dd4bf?style=flat-square&labelColor=0F172A" />&nbsp;<b>Production Full-Stack URL Shortener & Analytics</b>
       </p>
       <p align="center">
-        <a href="https://github.com/SahilAi1/makemeshort" target="_blank">
+        <a href="https://github.com/sahilssh/makemeshort" target="_blank">
           <img src="https://img.shields.io/badge/Visit_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F172A" alt="Visit GitHub repo" />
         </a>
         &nbsp;
@@ -73,7 +73,7 @@ class Sahil:
         <img src="https://img.shields.io/badge/status-live-2dd4bf?style=flat-square&labelColor=0F172A" />&nbsp;<b>High-Precision NLP Classification Pipeline</b>
       </p>
       <p align="center">
-        <a href="https://github.com/SahilAi1/spamMailDetection" target="_blank">
+        <a href="https://github.com/sahilssh/spamMailDetection" target="_blank">
           <img src="https://img.shields.io/badge/Visit_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F172A" alt="Visit GitHub repo" />
         </a>
         &nbsp;
@@ -119,7 +119,7 @@ class Sahil:
         <img src="https://img.shields.io/badge/status-completed-2dd4bf?style=flat-square&labelColor=0F172A" />&nbsp;<b>Full-Stack React & Python Flask Forecast App</b>
       </p>
       <p align="center">
-        <a href="https://github.com/SahilAi1/dot2-weather" target="_blank">
+        <a href="https://github.com/sahilssh/dot2-weather" target="_blank">
           <img src="https://img.shields.io/badge/Visit_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F172A" alt="Visit GitHub repo" />
         </a>
       </p>
